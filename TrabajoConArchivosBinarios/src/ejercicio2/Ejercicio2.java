@@ -1,4 +1,4 @@
-package variosbinarios;
+package ejercicio2;
 
 import java.io.File;
 import java.io.FileInputStream;
