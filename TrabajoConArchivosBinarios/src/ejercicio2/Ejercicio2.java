@@ -12,7 +12,7 @@ public class Ejercicio2 {
 
 	public static void main(String[] args) {
 		
-		File archivo = new File("textoFinal.dat");
+		File archivo = new File("src//ficheros//textoFinal.dat");
 		try (ObjectOutputStream salida = new ObjectOutputStream(new FileOutputStream(archivo,true))){
 			String linea = " ";
 			String textoFinal = "";
