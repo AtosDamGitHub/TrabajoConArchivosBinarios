@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author lucia
- *
- */
-module TrabajoConArchivosBinarios {
-}
