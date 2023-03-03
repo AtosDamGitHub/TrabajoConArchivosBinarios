@@ -1,4 +1,4 @@
-package Ejercicio_1;
+package ejercicio1;
 
 import java.io.File;
 import java.io.FileInputStream;
